@@ -1,0 +1,5 @@
+Entrez une expression logique, veuillez noter que
+votre expression doit utiliser une lettre miniscule pour
+représenter des variables, mais ne pas utiliser "v" comme variable
+car c est un opérateur dans mon code:
+(p v (p ^ q)) ^ !p -> r
